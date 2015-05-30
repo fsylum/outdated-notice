@@ -7,3 +7,4 @@ This code is used as a support for article series "Speed up Development Using th
 Article in series:
 * [Part 1](http://www.sitepoint.com/wordpress-plugin-boilerplate/)
 * Part 2 - [Code](https://github.com/fsylum/outdated-notice/tree/part-2)
+* Part 3 - [Code](https://github.com/fsylum/outdated-notice/tree/part-3)
